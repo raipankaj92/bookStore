@@ -17,6 +17,6 @@ This repository contains the source code for a Book Store application. The appli
 - **Database**: MongoDB
 
 - ## To clone this Repo:
-- ```
+ ```
       git clone https://github.com/raipankaj92/bookStore.git
   ```
